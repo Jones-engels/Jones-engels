@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#Develop a passion for learning
+Develop a passion for learning
 
 **If you do**
 
